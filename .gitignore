@@ -12,6 +12,8 @@
 *.vcxproj
 *.filters
 *.cbp
+*.depend
+*.layout
 
 # Compiled Dynamic libraries
 *.so
