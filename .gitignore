@@ -11,6 +11,7 @@
 #Penis stuff
 *.vcxproj
 *.filters
+*.cbp
 
 # Compiled Dynamic libraries
 *.so
