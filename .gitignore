@@ -8,6 +8,10 @@
 *.gch
 *.pch
 
+#Penis stuff
+*.vcxproj
+*.filters
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
